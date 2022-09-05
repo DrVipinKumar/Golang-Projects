@@ -1,0 +1,54 @@
+body{
+    width: 90% auto;
+    margin: 30px;
+    
+}
+img{
+    width:100px;
+    height: 100px;
+    float:left;
+}
+
+header b{
+    margin-left: 30px;
+    margin-top: 20px;
+    float: left;
+    font-size: 30px;
+}
+nav {
+    clear:both;
+}
+nav ul {
+    background-color: rgb(207, 16, 16);
+    
+}
+
+nav ul li {
+    display: inline-block;
+    text-decoration: none;
+    color:white;
+    padding: 20px;
+}
+nav ul li a{
+    color: white;
+    font-size: 30px;
+    text-decoration: none;
+}
+nav ul li a:hover{
+    background-color: white;
+    color: black;
+}
+nav ul li:hover{
+    background-color: white;
+    color: black;
+}
+section{
+    height: 400px;
+}
+footer{
+    height:50px;
+    background-color: burlywood;
+    padding-top:20px;
+    font-size: 20px;
+    font-weight: bold;
+}

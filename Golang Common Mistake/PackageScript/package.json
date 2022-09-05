@@ -1,0 +1,9 @@
+{
+    "some": "other fields",
+        "scripts": {"lint": "eslint --fix .",
+    "lint-check": "eslint .",
+        "start": "node index.js",
+        "dev": "nodemon"
+    },
+    "another": "other fields"
+}

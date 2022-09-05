@@ -1,0 +1,47 @@
+img{
+    width:100px;
+    height:100px;
+    float:left;
+}
+#title{
+    color:red;
+    font-size:24px;
+    float:left;
+    margin-top:30px;
+    margin-left:50px;
+    font-weight: bold;
+}
+nav{
+    clear:both;
+}
+nav ul{
+    background-color: black;
+}
+nav ul li {
+    color:white;
+    display:inline-block;
+    font-size:30px;
+    padding:20px;
+
+}
+nav ul li a{
+    color:white;
+    display:block;
+    font-size:30px;
+    text-decoration: none;
+}
+nav ul li a:hover{
+    background-color: white;
+    color:black;
+    font-size:35px;
+}
+nav ul li:hover{
+    background-color: white;
+    color:black;
+    font-size:35px;
+}
+body{
+    
+    width:90% auto;
+    
+}

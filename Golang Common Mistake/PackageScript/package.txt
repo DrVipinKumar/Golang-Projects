@@ -1,0 +1,4 @@
+"scripts": {
+    "lint": "eslint --fix .",
+    "lint-check": "eslint .",
+}
